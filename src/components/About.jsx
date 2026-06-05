@@ -29,7 +29,7 @@ const About = () => {
             {t.about.goals}
           </p>
           
-          {/* LÍNEA DE TIEMPO LIMPIA */}
+          
           <div className="space-y-6 pt-10">
             {timelineItems.map((item, index) => (
               <div key={index} className="flex gap-4 items-center">
