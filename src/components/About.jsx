@@ -46,7 +46,7 @@ const About = () => {
         <div className="flex justify-center md:justify-end sticky top-28">
           <div className="relative w-full max-w-lg aspect-square overflow-hidden rounded-3xl group">
             <img 
-              src="./public/YO.jpeg" 
+              src="public/YO.jpeg" 
               alt="Facundo Nieva"
               className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
             />
