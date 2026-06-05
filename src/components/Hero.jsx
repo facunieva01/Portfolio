@@ -37,7 +37,7 @@ const Hero = () => {
         <div className="flex justify-center md:justify-end">
           <div className="relative aspect-square w-full max-w-lg overflow-hidden bg-neutral-900 border-4 border-emerald-950 rounded-full group">
             <img 
-              src="/WhatsApp Image 2026-06-04 at 15.42.25.jpeg" 
+              src="/YOO.jpeg" 
               alt={t.hero.name}
               className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500"
             />

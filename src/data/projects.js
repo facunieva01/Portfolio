@@ -14,7 +14,7 @@ export const projectsData = [
     title: "CanchaYA",
     descEs: "Plataforma interactiva diseñada para la gestión y reserva de canchas deportivas en tiempo real. Implementé una base de datos relacional robusta en SQL Server para el control eficiente de turnos, horarios y disponibilidad de los complejos deportivos.",
     descEn: "Interactive platform designed for real-time sports court management and booking. Implemented a robust relational database in SQL Server for efficient control of schedules, shifts, and sports complex availability.",
-    image: "/WhatsApp Image 2026-06-04 at 12.56.16.jpeg",
+    image: "/canchaYA.jpeg",
     tags: ["React", "Tailwind CSS", "SQL Server"],
     github: "https://github.com/danilomercado/CanchaYa", // Respetando las mayúsculas como me pasaste
     demo: "https://github.com/danilomercado/CanchaYa"
